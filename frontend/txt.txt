@@ -1,0 +1,5 @@
+Propriedades
+
+props.title = titulo 
+
+props.children= todo conteudo
